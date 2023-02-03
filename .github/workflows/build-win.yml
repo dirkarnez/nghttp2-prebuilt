@@ -28,7 +28,7 @@ jobs:
     env:
       libraryName: nghttp2
       cmakeInstallationPath: nghttp2-installation
-      tagName:v1.51.0
+      tagName: v1.51.0
     steps:
       - name: git clone
         shell: cmd
